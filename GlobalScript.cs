@@ -17,7 +17,7 @@ namespace StorybrewScripts
         public override void Generate()
         {
             RemoveBackground();
-		    Vignette(834, 782664);
+	    Vignette(834, 782664);
         }
         private void Vignette(int startTime, int endTime)
         {
